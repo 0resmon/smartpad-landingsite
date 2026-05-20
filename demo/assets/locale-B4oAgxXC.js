@@ -1,0 +1,1 @@
+const s=(t,o,e)=>{if(!t||typeof t!="object")return e;const n=o.split(".").reduce((r,i)=>{if(r&&typeof r=="object"&&i in r)return r[i]},t);return typeof n=="string"&&n.length>0?n:e},g=t=>(o,e)=>s(t,o,e);export{g as c,s as g};
