@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[39756,["/smartpad-landing/_next/static/chunks/c46651960f4cb864.js"],"default"]
-3:I[37457,["/smartpad-landing/_next/static/chunks/c46651960f4cb864.js"],"default"]
-0:{"buildId":"pnreksjm1hc1iznPq9Qlz","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[39756,["/_next/static/chunks/c46651960f4cb864.js"],"default"]
+3:I[37457,["/_next/static/chunks/c46651960f4cb864.js"],"default"]
+0:{"buildId":"06JPUY_dFMnl7u9Bf-0eX","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
